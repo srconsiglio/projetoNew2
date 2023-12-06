@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+}
+
+header{
+    text-align: center;
+    background-color: #d4e2f3;
+}
+
+.navFooter{
+    display: inline;
+}
+ul,li,a{
+    display: inline;
+    text-decoration: none;
+    font-size: 10px;
+}
+
+
+section{
+    background-color: #d4e2f3 ;
+}
+
+
+.container{
+    background-color: white;
+}
+
+
+.page-footer{
+    background-color: #d4e2f3;
+}
